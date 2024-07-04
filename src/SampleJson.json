@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Sports Desk",
+            "title": "Shreyas Iyer's weakness exploited in flop Ranji Trophy return after BCCI contract saga in Mumbai vs Tamil Nadu semifinal - Hindustan Times",
+            "description": "Shreyas Iyer's return ended on a lacklustre note as the middle-order batter was dismissed for just three runs off eight balls in the Ranji Trophy semifinal | Cricket",
+            "url": "https://www.hindustantimes.com/cricket/shreyas-iyer-weakness-exploited-in-flop-ranji-trophy-return-bcci-contract-saga-in-mumbai-vs-tamil-nadu-semifinal-101709446785948.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/03/1600x900/iyer_ranji_1709446940963_1709446956738.jpg",
+            "publishedAt": "2024-03-03T06:54:40Z",
+            "content": "Shreyas Iyer's much-awaited return to action for the first time since being released from the Indian Test team and amid the ongoing BCCI contract saga ended on a lacklustre note as the middle-order b… [+2013 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Crazy Viral: Ishqbaaaz Star Surbhi Chandna Marries Longtime Boyfriend Karan Sharma In Jaipur - NDTV Movies",
+            "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
+            "url": "https://www.ndtv.com",
+            "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
+            "publishedAt": "2024-03-03T06:10:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "International Cricket Council"
+            },
+            "author": "Garima Srivastava",
+            "title": "India move to the top of the World Test Championship standings - ICC Cricket",
+            "description": "The two-time finalists have ascended to the pole position in the ICC World Test Championship standings as New Zealand slipped to No.2 following their Wellington defeat to Australia.",
+            "url": "https://www.icc-cricket.com/tournaments/world-test-championship/news/india-move-to-the-top-of-the-world-test-championship-standings",
+            "urlToImage": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size40/prd/et5vkkxgyjbrdnkpbscw",
+            "publishedAt": "2024-03-03T05:02:49Z",
+            "content": "Before the start of the Wellington Test, New Zealand were sitting at the top of the table with 36 points in four games and a points percentage of 75.\r\nFollowing their massive 172-run defeat, the 2021… [+552 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TOI Sports Desk",
+            "title": "1st Test: Nathan Lyon shines as Australia thrash New Zealand by 172 runs - The Times of India",
+            "description": "Cricket News: Australia's spinner Nathan Lyon took six wickets for 65 runs as they dismissed New Zealand for 196 in the second innings to register a thumping 172-run victory on the fourth day of the first Test at Wellington's Basin Reserve.",
+            "url": "https://timesofindia.indiatimes.com/sports/cricket/news/1st-test-nathan-lyon-shines-as-australia-thrash-new-zealand-by-172-runs/articleshow/108172070.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-108172142,width-1070,height-580,imgsize-82458,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2024-03-03T02:29:00Z",
+            "content": "Central contracts: BCCI drops Shreyas Iyer, Ishan Kishan"
+        }
+    ]
+}
